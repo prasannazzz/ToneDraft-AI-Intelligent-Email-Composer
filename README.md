@@ -1,4 +1,4 @@
-# ToneDraft AI
+# ToneDraft-AI-Intelligent-Email-Composer
 
 **An AI-powered email composition platform** built with a Chrome extension, React frontend, and Spring Boot backend. Integrates Google's Gemini API to generate contextually aware email replies with configurable tone.
 
